@@ -3,7 +3,7 @@
 
 Welcome to the open-source-discussions wiki! Below are some of my ramblings on open source solutions, DevOps and DevSecOps, cybersecurity and more!
 
-[5 Open Source AI Deep Learning Projects to Follow](https://github.com/limiw/open-source-discussions/blob/master/5%20Open%20Source%20AI%20Deep%20Learning%20Projects%20to%20Follow.md)
+[5 Open Source AI Deep Learning Projects to Follow](https://github.com/limiw/open-source-discussions/blob/master/5-open-source-deep-learning-projects.md)
 
 [5 Open Source Cloud Platforms for the Enterprise](https://github.com/limiw/open-source-discussions/wiki/5-Open-Source-Cloud-Platforms-for-the-Enterprise)
 
