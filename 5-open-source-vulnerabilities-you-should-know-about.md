@@ -1,4 +1,4 @@
-# Editing 5 Open Source Vulnerabilities You Should Know About
+# 5 Open Source Vulnerabilities You Should Know About
 Whether you are a developer who directly uses open source software, libraries, and frameworks in your work, or you are reading from a business perspective, you probably understand the usefulness of open source in terms of facilitating the agility required of modern software development teams. 
 
 An important early advocate of the free software model was Bruce Perens, who published the Debian Free Software Guidelines, which later became The Open Source Definition. Thanks to people like Perens, modern developers get free access to well-built code which they can adapt to their needs and use as the building blocks for proprietary applications. 
