@@ -13,7 +13,7 @@ Welcome to the open-source-discussions wiki! Below are some of my ramblings on o
 
 [5 Open Source ETL Solutions to Check Out](https://github.com/limiw/open-source-discussions/blob/master/5-open-source-ETL-solutions-to-check-out.md)
 
-[Digital Asset Management - What it is and How it Can Benefit Your Business](https://github.com/limiw/open-source-discussions/blob/master/digital-asset-management-what-it-is-and-how-it-can-help-your-business.md)
+[Digital Asset Management - What It Is and How It Can Benefit Your Business](https://github.com/limiw/open-source-discussions/blob/master/digital-asset-management-what-it-is-and-how-it-can-help-your-business.md)
 
 [5 Open Source SIEM Solutions to Consider](https://github.com/limiw/open-source-discussions/blob/master/5-open-source-siem-solutions-to-consider.md)
 
@@ -29,7 +29,7 @@ Welcome to the open-source-discussions wiki! Below are some of my ramblings on o
 
 [Vulnerabilities Management: 5 Ways to Find and Fix Open Source Vulnerabilities](https://github.com/limiw/open-source-discussions/blob/master/vulnerabilities-management-5-ways-to-find-and-fix-open-source-vulnerabilities.md)
 
-[What is SecOps and How it Can Benefit You](https://github.com/limiw/open-source-discussions/blob/master/what-is-secops-and-how-it-can-benefit-you.md)
+[What Is SecOps and How it Can Benefit You](https://github.com/limiw/open-source-discussions/blob/master/what-is-secops-and-how-it-can-benefit-you.md)
 
 [Optimizing Cloud Pricing: AWS vs. Azure](https://github.com/limiw/open-source-discussions/blob/master/optimizing-cloud-pricing:-aws-vs-azure.md)
 
