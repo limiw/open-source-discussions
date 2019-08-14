@@ -27,7 +27,7 @@ Welcome to the open-source-discussions wiki! Below are some of my ramblings on o
 
 [OWASP Top 10 Tips and Tricks](https://github.com/limiw/open-source-discussions/blob/master/owasp-top-10-tips-and-tricks.md)
 
-[Vulnerabilities Management: 5 Ways to Find and Fix Open Source Vulnerabilities](https://github.com/limiw/open-source-discussions/wiki/Vulnerabilities-Management---5-Ways-to-Find-and-Fix-Open-Source-Vulnerabilities)
+[Vulnerabilities Management: 5 Ways to Find and Fix Open Source Vulnerabilities](https://github.com/limiw/open-source-discussions/blob/master/vulnerabilities-management-5-ways-to-find-and-fix-open-source-vulnerabilities.md)
 
 [What is SecOps and How it Can Benefit You](https://github.com/limiw/open-source-discussions/blob/master/what-is-secops-and-how-it-can-benefit-you.md)
 
