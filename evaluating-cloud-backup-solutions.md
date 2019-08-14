@@ -1,4 +1,4 @@
-# Editing Evaluating Cloud Backup Solutions (AWS vs. Azure vs. Google Cloud)
+# Evaluating Cloud Backup Solutions (AWS vs. Azure vs. Google Cloud)
 ![aws vs. azure vs. google backup](https://cdn.pixabay.com/photo/2018/04/19/16/47/cloud-3333628_1280.png)
 
 When an attack happens, the most important thing is to restore the systems as soon as possible. The staggering costs of a data breach are driving organizations to choose backup and recovery solutions to ensure they can bounce back after an attack. 
