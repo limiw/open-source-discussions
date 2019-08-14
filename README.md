@@ -9,7 +9,7 @@ Welcome to the open-source-discussions wiki! Below are some of my ramblings on o
 
 [5 Open Source Digital Asset Management Tools to Check Out](https://github.com/limiw/open-source-discussions/wiki/5-Open-Source-Digital-Asset-Management-Tools-to-Check-Out)
 
-[5 Open Source ETL Solutions to Check Out](https://github.com/limiw/open-source-discussions/wiki/5-Open-Source-ETL-Solutions-to-Check-Out)
+[5 Open Source ETL Solutions to Check Out](https://github.com/limiw/open-source-discussions/blob/master/5-open-source-ETL-solutions-to-check-out.md)
 
 [Digital Asset Management - What it is and How it Can Benefit Your Business](https://github.com/limiw/open-source-discussions/wiki/Digital-Asset-Management---What-it-is-and-How-it-Can-Benefit-Your-Business)
 
