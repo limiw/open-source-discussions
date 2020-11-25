@@ -2,10 +2,10 @@
 
 **Overview**
 
-This article overviews five open source A.I. and deep learning projects that developers should keep an eye on and look to experiment with. As more companies invest in A.I., more jobs will be created in this field, many of which will be in development roles. In fact, despite frequent concerns citing A.I. as having the potential to wipe out human labor, [Gartner](https://www.gartner.com/newsroom/id/3837763) says that A.I. will create more jobs than it eliminates. 
+This article overviews five open source [artificial intelligence](https://www.datamation.com/artificial-intelligence/top-artificial-intelligence-companies.html) (AI) and deep learning projects that developers should keep an eye on and look to experiment with. As more companies invest in AI, more jobs will be created in this field, many of which will be in development roles. In fact, despite frequent concerns citing AI as having the potential to wipe out human labor, [Gartner](https://www.gartner.com/newsroom/id/3837763) says that A.I. will create more jobs than it eliminates. 
 
 ### A.I. and Deep Learning Development
-The decentralized open-source development model has impacted computer science in some profound ways; chief among them in recent years has been the rapid advancements in artificial intelligence. Exciting branches of A.I. such as machine learning and deep learning have come on leaps and bounds in recent years, and each passing year sees more [deep learning breakthroughs](https://www.forbes.com/sites/mariyayao/2018/02/05/12-amazing-deep-learning-breakthroughs-of-2017/#64c8f5af65db). 
+The decentralized open-source development model has impacted computer science in some profound ways; chief among them in recent years has been the rapid advancements in artificial intelligence. Exciting branches of AI such as machine learning and deep learning have come on leaps and bounds in recent years, and each passing year sees more [deep learning breakthroughs](https://www.forbes.com/sites/mariyayao/2018/02/05/12-amazing-deep-learning-breakthroughs-of-2017/#64c8f5af65db). 
 
 No longer are A.I. libraries, frameworks, and platforms restricted to the few. Large technology companies including Microsoft and Amazon Web Services have released open source projects that give developers and data scientists the tools needed to improve their proficiency in coding and building A.I. applications and models. 
 
@@ -35,7 +35,7 @@ The TensorFlow Keras API gives developers the building blocks to create and trai
 
 **SHAP**
 
-The projects mentioned thus far are more concerned with providing the basic building blocks of getting to grips with A.I. branches such as deep learning and machine learning. 
+The projects mentioned thus far are more concerned with providing the basic building blocks of getting to grips with AI branches such as deep learning and machine learning. 
 
 One important question that arises when becoming proficient at building and experimenting with such models is why did an algorithm make a certain decision. When you get insight into a given model’s inner workings, you get a solid base from which to improve its performance. 
 
@@ -49,4 +49,4 @@ Microsoft’s own open source deep learning framework, Microsoft Cognitive Toolk
 The framework describes neural networks via a series of computational steps using a directed graph. You can work with Microsoft Cognitive Toolkit in your library in Python, C#, or C++. Alternatively, you can use it as a standalone tool and work with it using its native BrainScript model description language.
 
 ## Wrap Up
-The open source model gets high-quality, well-maintained A.I. frameworks and libraries into the hands of developers. Experiment with some of these open source projects to get a solid introduction to AI and deep learning from a development perspective, and you’ll soon be able to delve into more complex areas of interest, such as deep learning for computer vision. 
+The open source model gets high-quality, well-maintained AI frameworks and libraries into the hands of developers. Experiment with some of these open source projects to get a solid introduction to AI and deep learning from a development perspective, and you’ll soon be able to delve into more complex areas of interest, such as deep learning for computer vision. 
