@@ -22,18 +22,18 @@ DAM software works by building a centralized, organized media library and associ
 ## Benefits of DAM Solutions
 There are many reasons to consider DAM software and here are some of them:
 
-* **Brand consistency*—everyone on your marketing team has access to the same updated marketing materials (assets). This means delivering consistent branding across different campaigns. 
-* **Usability*—search functions, easy sharing of assets, and the ability to track different asset versions combine for a much smoother digital asset workflow. 
-* **Improved productivity*—reduced time spent searching for assets and going back and forth between different teams means greater productivity and efficiency. 
-* **Reduce litigation issues*—it’s likely your business has some assets from third-parties, such as stock images, which come with usage rights. DAM software tracks these usage rights and reduces the chances of litigation issues due to misuse. 
-* **Better security*—digital assets are valuable files, which means they are targets for digital theft and other forms of cybercrime. DAM solutions improve digital asset security using encryption, controlled user-access to files, and multi-factor authentication. 
+* **Brand consistency**—everyone on your marketing team has access to the same updated marketing materials (assets). This means delivering consistent branding across different campaigns. 
+* **Usability**—search functions, easy sharing of assets, and the ability to track different asset versions combine for a much smoother digital asset workflow. 
+* **Improved productivity**—reduced time spent searching for assets and going back and forth between different teams means greater productivity and efficiency. 
+* **Reduce litigation issues**—it’s likely your business has some assets from third-parties, such as stock images, which come with usage rights. DAM software tracks these usage rights and reduces the chances of litigation issues due to misuse. 
+* **Better security**—digital assets are valuable files, which means they are targets for digital theft and other forms of cybercrime. DAM solutions improve digital asset security using encryption, controlled user-access to files, and multi-factor authentication. Keep in mind that DAM solutions do not replace [network security](https://www.esecurityplanet.com/products/best-enterprise-network-security-products.html). Rather, DAM provide capabilities dedicated to the data that moves in and out of the system.
 ## DAM Software Challenges
 DAM software has many benefits, however, using it also brings some new challenges, including:
 
-* **Selecting the right vendor*—it’s imperative to opt for a solution that best suits your specific business needs. 
-* **User adoption*—with any new tool, there’s often an initial struggle as business users become frustrated trying to get used to the software. 
-* **Managing user access*—setting permissions and managing user access is complex, particularly in a large enterprise. 
-* **Storage scalability*—DAM tools should be able to introduce extra storage locations for growing asset libraries without the need to move existing assets and impact on business users. 
+* **Selecting the right vendor**—it’s imperative to opt for a solution that best suits your specific business needs. 
+* **User adoption**—with any new tool, there’s often an initial struggle as business users become frustrated trying to get used to the software. 
+* **Managing user access**—setting permissions and managing user access is complex, particularly in a large enterprise. 
+* **Storage scalability**—DAM tools should be able to introduce extra storage locations for growing asset libraries without the need to move existing assets and impact on business users. 
 
 ## Best Practices for Using a DAM Solution
 Here are some tips and best practices for choosing and using DAM software. 
