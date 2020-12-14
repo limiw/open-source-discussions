@@ -11,7 +11,7 @@ Furthermore, as the [Information Age](https://searchcio.techtarget.com/definitio
 
 Digital asset management is a set of processes that a business undertakes to organize, store, manage, and easily retrieve its digital assets when they are required. DAM is typically conducted with the help of some tool or software system that builds a centralized digital library of all your assets, including documents, presentations, videos, and animations. 
 
-DAM tools and software simplify the whole approach to digital asset management, enabling businesses to classify digital assets and monitor usage rights. Additionally, different organizational departments can easily find all existing digital assets and extract value from them using their own workflows and strategies. 
+DAM tools and software simplify the whole approach to digital asset management, enabling businesses to classify digital assets and monitor usage rights. Additionally, different organizational departments can easily find all existing digital assets and extract value from them using their own workflows and strategies. There are also tools that provide extended capabilities, like [marketing automantion](https://technologyadvice.com/marketing-automation/) and artificial intelligence (AI). 
 
 As with endless areas of enterprise technology, the open source model has had a profound impact on digital asset management. A range of excellent open source digital asset management tools are now freely available. Read on to find out about five such tools. 
 
